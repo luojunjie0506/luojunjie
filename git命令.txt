@@ -2,3 +2,4 @@
 2）git commit -m '备注'    #提交文件到仓库
 3）git status  #查看仓库状态，可以看到那些文件被修改了
 4）git diff 文件名 #具体查看修改了什么内容
+5) git log --pretty=oneline #查看日志
