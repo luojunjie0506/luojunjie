@@ -3,3 +3,5 @@
 3）git status  #查看仓库状态，可以看到那些文件被修改了
 4）git diff 文件名 #具体查看修改了什么内容
 5) git log --pretty=oneline #查看日志
+6) git reset --hard HEAD^ #版本回退，HEAD^上版本，HEAD^^上上版本
+7）git reset --hard 具体commit id #回到指定版本
