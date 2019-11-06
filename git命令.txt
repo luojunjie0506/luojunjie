@@ -6,3 +6,4 @@
 6) git reset --hard HEAD^ #版本回退，HEAD^上版本，HEAD^^上上版本
 7）git reset --hard 具体commit id #回到指定版本
 8）git reflog #记录每一次命令
+9）git diff HEAD -- 文件名 #可以查看工作区跟版本库里最新版本的区别
