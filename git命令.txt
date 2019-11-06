@@ -7,3 +7,5 @@
 7）git reset --hard 具体commit id #回到指定版本
 8）git reflog #记录每一次命令
 9）git diff HEAD -- 文件名 #可以查看工作区跟版本库里最新版本的区别
+10) git checkout -- 文件名 #返回最近一次git commit或git add状态 	
+11) git reset HEAD 文件名 #撤销暂存区的修改，重新放回工作区
