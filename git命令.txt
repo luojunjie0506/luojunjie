@@ -9,3 +9,6 @@
 9）git diff HEAD -- 文件名 #可以查看工作区跟版本库里最新版本的区别
 10) git checkout -- 文件名 #返回最近一次git commit或git add状态 	
 11) git reset HEAD 文件名 #撤销暂存区的修改，重新放回工作区
+12) rm 文件名 #删除工作区的文件后
+		选择①git rm 文件名 #删除版本库的文件
+		选择②git checkout -- 文件名 #用版本库替换工作区的版本
